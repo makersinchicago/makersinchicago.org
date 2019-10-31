@@ -28,30 +28,3 @@ Makers in Chicago will serve as an in depth directory of organizations fostering
 
 > Additional Notes:  
 ✶ - Indicates seeking input
-
----
-
-*end of initial shareout*
-
----
-##### Idea Board:
-
-Break this out to another doc later after cleanup
-* Directory Information
-  * Org Name
-  * Contact Info
-    * Address
-    * Main Number
-    * General email address
-    * Hours or Best Public Hour or Visiting Period ( Orientation Days for schools?)
-  * Audience
-  * Type of Organization
-  * Monthly Fees if applicable
-  * Inception?
-  * Media Links?
-  * Social Media Links
-  * Website
-  * Slack/Discord/Teams if applicable
-  * Description
-  * Badges <for events [thinking about something I saw at GDC]>
-  
