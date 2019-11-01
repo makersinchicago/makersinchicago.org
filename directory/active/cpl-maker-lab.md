@@ -3,7 +3,7 @@
 The Maker Lab, Chicago’s first free and publicly accessible maker space, is on the 3rd floor of Harold Washington Library Center. The Maker Lab features introductory workshops and open shop for personal projects and collaboration. We encourage you to explore the full range of making, both high-tech and hands-on.
 
 **WEBSITE**  
-[bit.ly/cplmakerlab](http://bit.ly/cplmakerlab)  
+[CPL MakerLab's Digital Toolbox](http://bit.ly/cplmakerlab)  
 
 **ADDRESS**  
 [400 S State St. Chicago, Illinois 60605](https://goo.gl/maps/PHWayJYHTMVSnzNr7)  
@@ -34,7 +34,8 @@ Instagram: [@cplmakerlab](https://www.instagram.com/cplmakerlab/)
 **LAUNCH**  
 July 8th, 2013  
 
- **BADGES?**  
+ **BADGES**  
+Chicago Innovation Award
 MakerSummit 2013,2014,...  
 NorthSide MiniMakerFaire  
 Southside MiniMakerFaire  
