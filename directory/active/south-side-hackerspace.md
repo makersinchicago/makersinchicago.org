@@ -1,5 +1,5 @@
 ## South Side Hackerspace: Chicago
-###### PUBLIC LIBRARY - ADULT FOCUSED MAKER SPACE - FREE WORKSHOPS
+###### HACKERSPACE - BRIDGEPORT - DO-OCRACY - MEMBERSHIP BASED
 The South Side Hackerspace is a collection of nerds, makers, tinkerers, doers, hackers, artists, students, teachers, and other creatives. We meet in Chicago’s Bridgeport neighborhood, where we teach, learn, make, and socialize in our educational and collaborative community space.
 
 Our mission is two-fold:
@@ -26,8 +26,15 @@ _Doorbell:_
 [Google Calendar](https://calendar.google.com/calendar/embed?src=ssh%40sshchicago.org&ctz=America/Chicago)  
 
 **BEST HOURS**  
-_General Body Meeting_  
+_Open House/General Body Meeting_  
 **W:** 7:30pm  
+
+**MEMBERSHIP COST**  
+_$45/month_  
+* 24/7 access to the space  
+* Access to our member mailing list  
+* Eligibility to make and vote on proposals  
+* Eligibility to run for a Board position (with 6 months of continuous membership)  
 
 **AUDIENCE**  
 Adults  
