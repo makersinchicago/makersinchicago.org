@@ -28,3 +28,8 @@ Makers in Chicago will aim to serve as an in depth directory of organizations fo
 
 > Additional Notes:  
 ✶ - Indicates seeking input
+
+# Organizations
+
+* [CPL Maker Lab](/active/cpl-makerlab)
+* [South Side Hackerspace: Chicago](/active/south-south-hackerspace)
