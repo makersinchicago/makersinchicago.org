@@ -1,5 +1,5 @@
 ## South Side Hackerspace: Chicago
-###### HACKERSPACE - BRIDGEPORT - DO-OCRACY - MEMBERSHIP BASED
+###### HACKERSPACE - BRIDGEPORT - DO'OCRACY - MEMBERSHIP BASED
 The South Side Hackerspace is a collection of nerds, makers, tinkerers, doers, hackers, artists, students, teachers, and other creatives. We meet in Chicago’s Bridgeport neighborhood, where we teach, learn, make, and socialize in our educational and collaborative community space.
 
 Our mission is two-fold:  
