@@ -31,5 +31,5 @@ Makers in Chicago will aim to serve as an in depth directory of organizations fo
 
 # Organizations
 
-* [CPL Maker Lab](/active/cpl-makerlab)
-* [South Side Hackerspace: Chicago](/active/south-south-hackerspace)
+* [CPL Maker Lab](./active/cpl-makerlab)
+* [South Side Hackerspace: Chicago](./active/south-south-hackerspace)
