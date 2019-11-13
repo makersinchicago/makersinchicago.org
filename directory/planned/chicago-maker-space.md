@@ -1,5 +1,5 @@
 ## Chicago Maker Space
 ###### STATUS UNKNOWN
 
-**WEBSITE**
+**WEBSITE**  
 [chicagomakerspace.com](https://www.chicagomakerspace.com/)
