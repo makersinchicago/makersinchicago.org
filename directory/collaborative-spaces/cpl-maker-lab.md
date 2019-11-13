@@ -21,7 +21,7 @@ makerspace@chipublib.org
 _Open Shop_  
 **W:** 1pm-8pm **F|S:** 10am-2pm  
 _Free Classes_  
-**M|T|R:** 1:30pm and 6pm **F|S**: 2pm
+**M|T|R:** 1:30pm and 6pm **F|S**: 1pm
 
 **AUDIENCE**  
 Adults  
