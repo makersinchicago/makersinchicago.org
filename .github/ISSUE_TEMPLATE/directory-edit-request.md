@@ -9,6 +9,8 @@ assignees: ''
 
 ---
 
+Please add either [ADD] or [EDIT] to the title.
+
 ## [Full name of organization]
 
 ###### BANNER INFO
@@ -57,5 +59,5 @@ Misc: [add any other social url if you have one such as subreddit, slack signup,
  **LAUNCH**
 [ When did the space/org launch?]
 
-ADDITIONAL INFORMATION:
-[This will not be displayed on the directory– Please add either [ADD] or [EDIT] to the title. How did you hear about us? Also, is there anything else we should know? Any questions or comments?]
+_ADDITIONAL QUESTIONS:_
+[How did you hear about us? Also, is there anything else we should know? Any questions or comments?]
