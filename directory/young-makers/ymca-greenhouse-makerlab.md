@@ -15,7 +15,7 @@ rwaswil@ymcachicago.org
 847-296-3376 
 
 **AUDIENCE**  
-All ages with a focus of youth.  
+All ages with a focus on youth.  
 Programs broken into:  
 * Kindergarden
 * Ages 4-6
@@ -25,7 +25,7 @@ Programs broken into:
 * 7+ and families  
 
 **EVENTS**
-[MakerLab Schedule](https://www.ymcachicago.org/lattof/programs)
+[MakerLab Schedule](https://www.ymcachicago.org/lattof/programs)  
 _Scroll to the bottom, under *Download Facility Schedules*_
 
 **COST**  
