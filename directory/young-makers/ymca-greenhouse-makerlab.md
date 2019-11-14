@@ -15,7 +15,7 @@ rwaswil@ymcachicago.org
 847-296-3376 
 
 **AUDIENCE**  
-All ages  
+All ages with a focus of youth. 
 Programs broken into:  
 * Kindergarden
 * Ages 4-6
