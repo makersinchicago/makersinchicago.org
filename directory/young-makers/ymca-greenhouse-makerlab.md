@@ -24,5 +24,12 @@ Programs broken into:
 * Teens
 * 7+ and families  
 
+**EVENTS**
+[MakerLab Schedule](https://www.ymcachicago.org/lattof/programs)
+_Scroll to the bottom, under *Download Facility Schedules*_
+
+**COST**  
+See their events schedule for details.  
+
 **BADGES**  
 Southside MiniMakerFaire 2019
