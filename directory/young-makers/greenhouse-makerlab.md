@@ -1,5 +1,5 @@
 ## The Greenhouse MakerLab
-###### YMCA
+###### YMCA FAMILY-FRIENDLY
 The Greenhouse MakerLab is a space that empowers everyone that visits to learn, create, and explore as artists, engineers, designers, and more. Whether it’s building robots, designing and decorating your own greeting cards, or 3D printing your own miniature figurines, the MakerLab offers a hands-on learning environment for all ages: kids and adults. We offer classes, workshops, camps, and open-lab time to allow anyone to learn new skills and grow as a problem-solver and creative thinker.
 
 **WEBSITE**  
