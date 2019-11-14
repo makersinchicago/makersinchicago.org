@@ -14,5 +14,14 @@ rwaswil@ymcachicago.org
 **PHONE**  
 847-296-3376 
 
- **BADGES**  
+**AUDIENCE**  
+All ages  
+Programs broken into:  
+* Kindergarden
+* Ages 4-6
+* Elementary
+* Ages 7-12
+* Teens
+* 7+ and families
+**BADGES**  
 Southside MiniMakerFaire 2019
