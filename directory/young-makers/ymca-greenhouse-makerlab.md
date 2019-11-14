@@ -26,7 +26,7 @@ Programs broken into:
 
 **EVENTS**  
 [MakerLab Schedule](https://www.ymcachicago.org/lattof/programs)  
-_Scroll to the bottom, under *Download Facility Schedules*_
+_Scroll to the bottom, under **Download Facility Schedules**_
 
 **COST**  
 See their events schedule for details.  
