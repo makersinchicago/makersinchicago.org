@@ -173,5 +173,8 @@ li.current{
 	}
 	.sheet {
 	margin-left: 0px;
-}
+	}
+	#post-list {
+	 margin-left: -30px;
+	}
 }
