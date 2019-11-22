@@ -1,7 +1,6 @@
 title:Chicago Maker Space
 category: X-Op and Future
-
-###### STATUS UNKNOWN
+tags: planned, STATUS UNKNOWN
 
 **WEBSITE**  
 [chicagomakerspace.com](https://www.chicagomakerspace.com/)
