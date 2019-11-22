@@ -2,6 +2,7 @@ body {
 	background-color: #f3f3f3;
 	color: #4D4D4D;
 	font-family: 'Roboto';
+	margin-top: 0;
 }
 
 h1, h2, h3 {
@@ -63,7 +64,7 @@ li.current{
 
 .main {
 	max-width: 1140px;
-	margin: auto;
+	margin: 0 auto;
 }
 .content {
 	display: flex;
@@ -87,7 +88,8 @@ li.current{
 .info {
 	display: table-cell;
 	width: 100%;
-	margin: .5em;
+	margin-left: .5em;
+	margin-right: .5em;
 }
 
 #cats {

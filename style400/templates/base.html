@@ -30,18 +30,18 @@
           
             {% if DISPLAY_PAGES_ON_MENU %}
             {% for p in pages %}
-            <li {% if p==page %} class="current" {% endif %}><h2><a id='cats' href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></h2></li>
+            <li {% if p==page %} class="current" {% endif %}><h2><a id='cats' href="{{ SITEURL }}/{{ p.url }}#anchor">{{ p.title }}</a></h2></li>
             {% endfor %}
             {% endif %}
 			
 			
             {% if DISPLAY_CATEGORIES_ON_MENU %}
             {% for cat, articles in categories %}
-			<li {% if cat==category and a==article %} class="current" {% endif %}><h2><a id='cats' href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></h2></li>
+			<li {% if cat==category and a==article %} class="current" {% endif %}><h2><a id='cats' href="{{ SITEURL }}/{{ cat.url }}#anchor">{{ cat }}</a></h2></li>
 			<ul>
         {% if not cat == 'Blog' %}
 				{% for a in articles %}
-		            <li {% if a==article %} class="current" {% endif %}><a href="{{ SITEURL }}/{{ a.url }}">{{ a.title }}</a></li>
+		            <li {% if a==article %} class="current" {% endif %}><a href="{{ SITEURL }}/{{ a.url }}#anchor"">{{ a.title }}</a></li>
 		          {% endfor %}
         {% endif %}
 			</ul>
@@ -56,7 +56,7 @@
 		</details>
 	</div>
 </div>
-	<div class="info">
+	<div class="info" id="anchor">
 	    {% block content %}
 	    {% endblock %}
 		</div>
