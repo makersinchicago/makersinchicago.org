@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+
+    <!-- Meta -->
+    <meta name="description" content="{{ SITENAME }} &ndash; {{ SITESUBTITLE }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- CSS --> 
+	<link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Big+Shoulders+Text|Roboto:400,700&display=swap" rel="stylesheet">
+	</head>
+  
+  <body>
+    <div>
+      <header id="header">
+      </header>
+	  <div class="main">
+		<div class="bar">
+			<h1><a href="/" id="header-logo" title="Home">{{ SITENAME }}</a></h1>
+			<div class="directory">
+			<nav id="header-menu">
+          
+            {% if DISPLAY_PAGES_ON_MENU %}
+            {% for p in pages %}
+            <li {% if p==page %} class="current" {% endif %}><h2><a id='cats' href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></h2></li>
+            {% endfor %}
+            {% endif %}
+			
+			
+            {% if DISPLAY_CATEGORIES_ON_MENU %}
+            {% for cat, articles in categories %}
+			<li {% if cat==category and a==article %} class="current" {% endif %}><h2><a id='cats' href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></h2></li>
+			<ul>
+        {% if not cat == 'Blog' %}
+				{% for a in articles %}
+		            <li {% if a==article %} class="current" {% endif %}><a href="{{ SITEURL }}/{{ a.url }}">{{ a.title }}</a></li>
+		          {% endfor %}
+        {% endif %}
+			</ul>
+            {% endfor %}
+		
+			{% endif %}
+            {% for title, link in MENUITEMS %}
+            <li ><a href="{{ link }}">{{ title }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
+		</details>
+	</div>
+</div>
+	<div class="info">
+	    {% block content %}
+	    {% endblock %}
+		</div>
+    </div>
+
+    <footer>
+    </footer>
+
+  </body>
+</html>

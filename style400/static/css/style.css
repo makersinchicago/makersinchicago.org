@@ -1,0 +1,69 @@
+body {
+	background-color: #f3f3f3;
+	font-family: Helvetica;
+}
+
+h1, h2, h3 {
+	font-family: 'Big Shoulders Text', cursive;
+}
+
+a {
+	text-decoration: none;
+	color: #2F847C;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+li {
+	list-style-type: none;
+}
+
+li.current{
+	font-weight: 700;
+	margin-left: -1.25em;
+	text-decoration: underline;
+	
+}
+
+.main {
+	margin: -1em auto;
+	display: flex;
+	max-width: 1140px;	
+}
+
+.bar {
+	display: table-cell;
+	float: left;
+	white-space:nowrap;
+	margin-right: 1em;
+}
+
+.directory {
+	
+}
+
+.frontpage {
+	text-align:center;
+}
+
+.info {
+	display: table-cell;
+	width: 100%;
+	margin: .5em;
+}
+
+#cats {
+	font-family: 'Big Shoulders Text';
+	font-weight: 700;
+	margin-left: 1em;
+	color: #2f6184;
+}
+
+#map {
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  padding: 0px
+}
