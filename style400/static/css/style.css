@@ -1,8 +1,8 @@
 body {
+	margin: 0;
 	background-color: #f3f3f3;
 	color: #4D4D4D;
 	font-family: 'Roboto';
-	margin-top: 0;
 }
 
 h1, h2, h3 {
@@ -14,14 +14,12 @@ h4, h5 {
 }
 
 h4 {
-	font-family: 'Lora';
 	font-weight: 700;
 	font-size: 17px;
 	line-height: 22px;
 }
 
 h5 {
-	font-family: 'Lora';
 	font-weight: 700;
 	font-size: 15px;
 	line-height: 20px;
@@ -65,6 +63,7 @@ li.current{
 .main {
 	max-width: 1140px;
 	margin: 0 auto;
+	padding: 0 10px;
 }
 .content {
 	display: flex;
@@ -156,12 +155,15 @@ li.current{
 }
 
 .sheet {
+	margin-top: 20px;
 	margin-left: -20px;
-	margin-bottom: 20px;
-	padding-left: 20px;
+	padding: 0px 20px 20px 20px;
 	border-left: 3px solid #b2b2b2;
 	border-top: 3px solid #b2b2b2;
 	border-top-left-radius: 20px;
+}
+#logo {
+	margin-top: 1em;
 }
 
 @media screen and (max-width: 600px) {
