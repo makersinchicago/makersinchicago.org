@@ -22,7 +22,6 @@
 {% endblock %}
 
 {% block content %}
-<section id="content" class="body">
   <header>
     <h1 class="entry-title">
       {{ article.title }}</h1>
@@ -49,20 +48,17 @@
     {% endif %}
     {% if article.category %}
     <div class="category">
-        Category: <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+        <a class="btn cat-btn" href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
     </div>
     {% endif %}
     {% if article.tags %}
     <div class="tags">
-        Tags:
         {% for tag in article.tags %}
-            <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
-        {% endfor %}
+			<a class="btn tag-btn" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+		{% endfor %}
     </div>
     {% endif %}
   </footer><!-- /.post-info -->
   <div class="entry-content">
     {{ article.content }}
-  </div><!-- /.entry-content -->
-</section>
 {% endblock %}

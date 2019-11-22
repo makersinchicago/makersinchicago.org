@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 import glob
 
-AUTHOR = 'MakerNavigator'
+AUTHOR = 'MakersinChicago'
 SITENAME = 'Makers in Chicago'
 SITEURL = ''
 
@@ -19,7 +19,6 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-SUMMARY_MAX_LENGTH = 42
 DEFAULT_DATE = (2019, 6, 17, 14, 1, 1)
 
 
@@ -32,8 +31,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (('GitHub', 'http://github.com/standage'),
           ('Twitter', 'https://twitter.com/byuhobbes'),
           ('StackExchange', 'http://stackexchange.com/users/208980/daniel-standage?tab=accounts'))
-
-DEFAULT_PAGINATION = 10
+GITHUB_URL = 'http://github.com/makersinchicago'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

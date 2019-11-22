@@ -1,1 +1,1 @@
-Title: Chicago Industrial Arts and Design Center
+Title: Chicago Industrial Arts & Design Center

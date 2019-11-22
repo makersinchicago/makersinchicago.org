@@ -1,1 +1,2 @@
-Title: Polsky Exchange FabLab
+title: Polsky Exchange FabLab
+tags: fablab

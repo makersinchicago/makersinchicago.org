@@ -1,7 +1,6 @@
-title: Chicago Public Library Maker Lab
+title: CPL Maker Lab
+tags: public library, adult focused makerspace, free workshops, the loop
 
-## CPL Maker Lab
-###### PUBLIC LIBRARY - ADULT FOCUSED MAKER SPACE - FREE WORKSHOPS
 The Maker Lab, Chicago’s first free and publicly accessible maker space, is on the 3rd floor of Harold Washington Library Center. The Maker Lab features introductory workshops and open shop for personal projects and collaboration. We encourage you to explore the full range of making, both high-tech and hands-on.
 
 **WEBSITE**  
