@@ -162,7 +162,7 @@ li.current{
 	border-top-left-radius: 20px;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 600px) {
 	.content {
 		display: block;
 	}
