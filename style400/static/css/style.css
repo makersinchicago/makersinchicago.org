@@ -166,6 +166,9 @@ li.current{
 #logo {
 	margin-top: 1em;
 }
+#post-list {
+	 margin-left: -20px;
+}
 
 @media screen and (max-width: 600px) {
 	.content {
@@ -173,8 +176,5 @@ li.current{
 	}
 	.sheet {
 	margin-left: 0px;
-	}
-	#post-list {
-	 margin-left: -30px;
 	}
 }
