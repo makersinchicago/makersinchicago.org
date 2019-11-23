@@ -49,7 +49,7 @@
     {% endif %}
     {% if article.category %}
     <div class="category">
-        <a class="btn cat-btn" href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+        <a class="btn cat-btn" href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category.name[2:] }}</a>
     </div>
     {% endif %}
     {% if article.tags %}
