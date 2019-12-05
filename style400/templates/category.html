@@ -1,12 +1,9 @@
 {% extends "base.html" %}
 
-{% block title %}{{ SITENAME }} - {{ category.name[2:] }} {% endblock %}
+{% block title %}{{ SITENAME }} - {{ category.name }} {% endblock %}
 
 {% block content %}
 {% block content_title %}
-{% if category.name != 'Blog' %}
-{{ category.name = category.name[2:] }}
-{% endif %}
 <h1>{{ category.name }}</h1>
 
 {% endblock %}
