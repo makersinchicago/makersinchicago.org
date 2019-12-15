@@ -2,6 +2,7 @@ body {
 	margin: 0;
 	background-color: #f3f3f3;
 	color: #4D4D4D;
+	font-size: 14px;
 	font-family: 'Roboto';
 }
 
@@ -61,9 +62,9 @@ li.current{
 }
 
 .main {
-	max-width: 1140px;
+	width: 720px;
 	margin: 0 auto;
-	padding: 0 10px;
+	padding: 24px 24px;
 }
 .content {
 	display: flex;
