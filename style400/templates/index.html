@@ -8,11 +8,10 @@
             <li {% if p==page %} class="current" {% endif %}><h2><a id='cats' href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></h2></li>
             {% endfor %}
             {% endif %} 
-        
         {% for cat, articles in categories %}
-        <div class="mids">
+        
         <li {% if cat==category and a==article %} class="current" {% endif %}><h2><a id='cats' href="{{ SITEURL }}/{{ cat.url }}">{{ cat.name }}</a></h2></li>
-        </div>
+        
         <ul>
     {% if not cat == 'Blog' %}
     <ol id="post-list">
