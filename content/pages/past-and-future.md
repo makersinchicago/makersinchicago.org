@@ -1,4 +1,5 @@
-title: Blog
+title: Past and Present
+status: hidden
 
 ## Future
 
