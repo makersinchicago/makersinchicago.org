@@ -1,35 +1,31 @@
 body {
-	margin: 0;
 	background-color: #f3f3f3;
 	color: #4D4D4D;
 	font-family: 'Roboto';
+	font-size: 62.5%;
 }
 
-h1, h2, h3 {
+p {
+	font-size: 1rem;
+}
+
+h1, h2 {
 	font-family: 'Big Shoulders Text';
 }
 
-h4, h5 {
-	font-family: 'Lora' ;
+h1 {
+	font-size: 2.4rem;
 }
 
-h4 {
-	font-weight: 700;
-	font-size: 17px;
-	line-height: 22px;
-}
-
-h5 {
-	font-weight: 700;
-	font-size: 15px;
-	line-height: 20px;
+h2 {
+	font-size: 1.6rem;
 }
 
 h6 {
 	font-family: 'Roboto';
 	font-weight: 400;
-	font-size: 13px;
-	line-height: 17px;
+	font-size: 1.3rem;
+	line-height: 1.7rem;
 	text-transform: uppercase;
 }
 
@@ -39,7 +35,8 @@ a {
 }
 
 .address {
-	margin-top: -16px;
+	font-size: .9rem;
+	margin-top: -.5rem;
 	margin-block-end: .83em;
 }
 
@@ -56,6 +53,7 @@ a:hover {
 
 li {
 	list-style-type: none;
+	font-size: 1rem;
 }
 
 li.current{
@@ -68,7 +66,7 @@ li.current{
 .main {
 	max-width: 900px;
 	margin: 0 auto;
-	padding: 24px 24px;
+	padding: 2.4rem 2.4rem;
 }
 .content {
 	display: flex;
@@ -78,7 +76,7 @@ li.current{
 	min-width: 275px;
 	display: table-cell;
 	float: left;
-	margin-right: 24px;
+	margin-right: 2.4rem;
 }
 
 .directory {
@@ -110,7 +108,7 @@ li.current{
 }
 
 .category {
-	margin-top: 10px;
+	margin-top: 1rem;
 }
 
 .tag-btn {
@@ -173,6 +171,10 @@ li.current{
 }
 #post-list {
 	 margin-left: -20px;
+}
+
+.post-info {
+	font-size: .9rem;
 }
 
 @media screen and (max-width: 600px) {
