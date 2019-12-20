@@ -20,15 +20,18 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = False
 
 DEFAULT_DATE = (2019, 6, 17, 14, 1, 1)
 
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (
+         ('Directory', '/'),
+         ('Map', '/pages/map'),
+         ('About', '/pages/about'),
+         ('Blog', '/category/blog'),
+         )
 
 SOCIAL = (('GitHub', 'http://github.com/standage'),
           ('Twitter', 'https://twitter.com/byuhobbes'),

@@ -26,6 +26,11 @@
         <h1><a href="/" id="header-logo" title="Home">{{ SITENAME }}</a></h1>
         <div id="menu">
           <ul class="nav">
+              {% if LINKS %}
+              {% for name, link in LINKS %}
+              <li><a id='cats' href="{{ link }}">{{ name }}</a></h4></li>
+                      {% endfor %}
+      {% endif %}
             {% if DISPLAY_PAGES_ON_MENU %}
               {% for p in pages %}
                 <li {% if p==page %} class="current" {% endif %}><a id='cats' href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></h4></li>
