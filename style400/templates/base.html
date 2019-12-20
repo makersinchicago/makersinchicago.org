@@ -1,73 +1,46 @@
 <!DOCTYPE html>
 <html lang="{{ DEFAULT_LANG }}">
 
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
 
-    <!-- Meta -->
-    <meta name="description" content="{{ SITENAME }} &ndash; {{ SITESUBTITLE }}">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Meta -->
+<meta name="description" content="{{ SITENAME }} &ndash; {{ SITESUBTITLE }}">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- CSS --> 
-	<link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/style.css" />
-    <link href="https://fonts.googleapis.com/css?family=Big+Shoulders+Text|Lora|Roboto:400,700&display=swap" rel="stylesheet">
-	</head>
-    <!-- Ic0n -->
-    <link rel="shortcut icon" type="image/x-icon" href="{{ SITEURL }}/theme/images/favicon.png">
-  
+<!-- CSS --> 
+<link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/style.css" />
+<link href="https://fonts.googleapis.com/css?family=Big+Shoulders+Text|Lora|Roboto:400,700&display=swap" rel="stylesheet">
+</head>
+<!-- Ic0n -->
+<link rel="shortcut icon" type="image/x-icon" href="{{ SITEURL }}/theme/images/favicon.png">
+
   <body>
-    <div>
-      <div class="main">
-        <header id="header">
-          <h1><a href="/" id="header-logo" title="Home">{{ SITENAME }}</a></h1>
-        </header>
-        <div class="content">
-    <!---
-		<div class="bar">
-			<div class="directory">
-			<nav id="header-menu">
-          
+    <div class="main">
+      <header id="header">
+        <h1><a href="/" id="header-logo" title="Home">{{ SITENAME }}</a></h1>
+        <div id="menu">
+          <ul class="nav">
             {% if DISPLAY_PAGES_ON_MENU %}
-            {% for p in pages %}
-            <li {% if p==page %} class="current" {% endif %}><h2><a id='cats' href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></h2></li>
-            {% endfor %}
-            {% endif %}
-			
-			
-            {% if DISPLAY_CATEGORIES_ON_MENU %}
-            {% for cat, articles in categories %}
-			<li {% if cat==category and a==article %} class="current" {% endif %}><h2><a id='cats' href="{{ SITEURL }}/{{ cat.url }}">{{ cat.name }}</a></h2></li>
-			<ul>
-        {% if not cat == 'Blog' %}
-				{% for a in articles %}
-		            <li {% if a==article %} class="current" {% endif %}><a href="{{ SITEURL }}/{{ a.url }}">{{ a.title }}</a></li>
-		          {% endfor %}
-        {% endif %}
-			</ul>
-            {% endfor %}
-		
-			{% endif %}
-            {% for title, link in MENUITEMS %}
-            <li ><a href="{{ link }}">{{ title }}</a></li>
-            {% endfor %}
+              {% for p in pages %}
+                <li {% if p==page %} class="current" {% endif %}><a id='cats' href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></h4></li>
+              {% endfor %}
+            {% endif %}   
           </ul>
-        </nav>
-		</details>
-	</div>
-</div>-->
-	<div class="info">
-	    {% block content %}
-	    {% endblock %}
-		</div>
+        </div>
+      </header>
+    <div class="content">
+      <div class="info">
+        {% block content %}
+        {% endblock %}
+      </div>
     </div>
-</div>
-
-    <footer><center>
-      {{ SITENAME }}
-    </center>
-    </footer>
-
+    <footer>
+        <center>
+          {{ SITENAME }}
+        </center>
+      </footer>
   </body>
 </html>

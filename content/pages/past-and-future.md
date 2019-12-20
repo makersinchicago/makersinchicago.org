@@ -1,4 +1,4 @@
-title: Orgs of Future/Past
+title: Blog
 
 ## Future
 
