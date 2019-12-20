@@ -37,7 +37,7 @@ h6 {
 
 a {
 	text-decoration: none;
-	color: #2F847C;
+	color: #000;
 }
 
 .address {
@@ -99,7 +99,7 @@ li.current{
 #cats {
 	font-weight: 700;
 	text-align: center;
-	color: #2f6184;
+	color: #0075bb;
 }
 
 #map {
