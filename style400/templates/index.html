@@ -14,7 +14,7 @@
         
         <ul>
     {% if not cat == 'Blog' %}
-    <ol id="post-list">
+    <div id="post-list">
             {% for a in articles %}
                    <div class="sheet">
                     <li><a class="hentry">
@@ -46,7 +46,7 @@
                     </article></li>
                 </div>
             {% endfor %}
-            </ol>
+            </div>
     {% endif %}
         </ul>
         {% endfor %}
