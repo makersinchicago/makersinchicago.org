@@ -37,7 +37,7 @@ a {
 .address {
 	font-size: .9rem;
 	margin-top: -.5rem;
-	margin-block-end: .83em;
+	line-height: 1.7rem;
 }
 
 .home {
@@ -55,10 +55,12 @@ li {
 	list-style-type: none;
 	font-size: 1rem;
 }
+ul	{
+	padding-inline-start: 0px;
+}
 
 li.current{
 	font-weight: 700;
-	margin-left: -1.25em;
 	text-decoration: underline;
 	
 }
@@ -66,7 +68,7 @@ li.current{
 .main {
 	max-width: 900px;
 	margin: 0 auto;
-	padding: 2.4rem 2.4rem;
+	padding: 24px 24px;
 }
 .content {
 	display: flex;
@@ -90,8 +92,6 @@ li.current{
 .info {
 	display: table-cell;
 	width: 100%;
-	margin-left: .5em;
-	margin-right: .5em;
 }
 
 #cats {
@@ -108,7 +108,7 @@ li.current{
 }
 
 .category {
-	margin-top: 1rem;
+	margin-top: 10px;
 }
 
 .tag-btn {
@@ -160,7 +160,6 @@ li.current{
 .sheet {
 	height: 100%;
 	margin-top: 20px;
-	margin-left: -20px;
 	padding: 0px 20px 20px 20px;
 	border-left: 3px solid #b2b2b2;
 	border-top: 3px solid #b2b2b2;
@@ -170,7 +169,8 @@ li.current{
 	margin-top: 1em;
 }
 #post-list {
-	 margin-left: -20px;
+	 max-width: 720px;
+	 margin: 0 auto;
 }
 
 .post-info {
