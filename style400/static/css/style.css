@@ -167,9 +167,7 @@ li.current{
 	border-top: 3px solid #b2b2b2;
 	border-top-left-radius: 20px;
 }
-#logo {
-	margin-top: 1em;
-}
+
 #post-list {
 	 max-width: 720px;
 	 margin: 0 auto;
@@ -177,6 +175,10 @@ li.current{
 
 .post-info {
 	font-size: .9rem;
+}
+
+.sitename {
+	margin: 0px;
 }
 
 ul.nav {
@@ -193,11 +195,6 @@ ul.nav li {
 	line-height: 1.5rem;
 	text-transform: uppercase;
 }
-
-header h1 {
-	margin: 0px;
-}
-
 @media screen and (max-width: 600px) {
 	.content {
 		display: block;

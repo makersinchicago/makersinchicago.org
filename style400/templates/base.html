@@ -21,9 +21,9 @@
   <body>
     <div class="main">
       <header class="banner">
-          <a href="/" id="header-logo" title="Home"><img src="/theme/images/star.svg"></a>
+          <a href="/" title="Home"><img src="/theme/images/star.svg"></a>
           
-        <h1><a href="/" id="header-logo" title="Home">{{ SITENAME }}</a></h1>
+        <h1 class="sitename"><a href="/" title="Home">{{ SITENAME }}</a></h1>
         <div id="menu">
           <ul class="nav">
               {% if LINKS %}
@@ -33,7 +33,7 @@
       {% endif %}
             {% if DISPLAY_PAGES_ON_MENU %}
               {% for p in pages %}
-                <li {% if p==page %} class="current" {% endif %}><a id='cats' href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></h4></li>
+                <li><a id='cats' href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></h4></li>
               {% endfor %}
             {% endif %}   
           </ul>
