@@ -195,11 +195,3 @@ ul.nav li {
 	line-height: 1.5rem;
 	text-transform: uppercase;
 }
-@media screen and (max-width: 600px) {
-	.content {
-		display: block;
-	}
-	.sheet {
-	margin-left: 0px;
-	}
-}
