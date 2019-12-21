@@ -25,7 +25,7 @@
 <div class="sheet">
     <h1 class="entry-title">
       {{ article.title }}</h1>
-  <footer class="post-info">
+  <div class="post-info">
   	{% if article.category == 'Blog' %}
     <time class="published" datetime="{{ article.date.isoformat() }}">
       {{ article.locale_date }}
@@ -55,7 +55,9 @@
 		{% endfor %}
     </div>
     {% endif %}
-  </footer><!-- /.post-info -->
+  </div><!-- /.post-info -->
   <div class="entry-content">
     {{ article.content }}
+  </div>
+</div>
 {% endblock %}
