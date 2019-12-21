@@ -76,9 +76,6 @@ li.current{
 	margin: 0 auto;
 	padding: 24px 24px;
 }
-.content {
-	display: flex;
-}
 
 .bar {
 	min-width: 275px;
