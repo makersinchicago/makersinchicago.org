@@ -46,23 +46,8 @@ a {
 	margin-bottom: 5px;
 }
 
-.home {
-	display: table;
-	margin: auto;
-	text-align: center;
-	font-size:2em;
-}
-
 a:hover {
 	text-decoration: underline;
-}
-
-li {
-	list-style-type: none;
-	font-size: 1rem;
-}
-ul	{
-	padding-inline-start: 0px;
 }
 
 li.current{
@@ -73,22 +58,11 @@ li.current{
 
 .main {
 	max-width: 900px;
-	margin: 0 auto;
+	margin: 0px auto;
 	padding: 24px 24px;
 }
 .content {
 	display: flex;
-}
-
-.bar {
-	min-width: 275px;
-	display: table-cell;
-	float: left;
-	margin-right: 2.4rem;
-}
-
-.frontpage {
-	text-align:center;
 }
 
 .info {
@@ -98,15 +72,7 @@ li.current{
 
 #cats {
 	font-weight: 700;
-	text-align: center;
 	color: #2f6184;
-}
-
-#map {
-  height: 100%;
-  width: 100%;
-  margin: 0px;
-  padding: 0px
 }
 
 .category {
@@ -183,6 +149,7 @@ li.current{
 
 ul.nav {
 	text-align: center;
+	padding-inline-start: 0px;
 }
 ul.nav li {
 	display:inline-block;

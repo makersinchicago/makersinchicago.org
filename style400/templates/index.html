@@ -1,15 +1,16 @@
 {% extends "base.html" %}
 {% block content %}
+<h1>Directory</h1>
 {% for cat, articles in categories %}
-        
-        <li {% if cat==category and a==article %} class="current" {% endif %}><h2><a id='cats' href="{{ SITEURL }}/{{ cat.url }}">{{ cat.name }}</a></h2></li>
+        <h2><a id='cats' href="{{ SITEURL }}/{{ cat.url }}">{{ cat.name }}</a></h2>
         
     
     {% if not cat == 'Blog' %}
     <div id="post-list">
             {% for a in articles %}
                    <div class="sheet">
-                    <li><a class="entry">
+                       <article>
+                    <a class="entry">
                                 <h2 class="entry-title"><a href="{{ SITEURL }}/{{ a.url }}" rel="bookmark" title="Permalink to {{ a.title|striptags }}">{{ a.title }}</a></h2>
                             {% if a.address %}
                             <div class="address">{{ a.address }}</div>
@@ -33,19 +34,14 @@
                             </div>
                             {% endif %}
                             <div class="entry-content"> {{ a.summary }} </div><!-- /.entry-content -->
-                    </article></li>
+                    </article>
                 </div>
             {% endfor %}
             </div>
     {% endif %}
     
         {% endfor %}
-    
-        {% for title, link in MENUITEMS %}
-        <li ><a href="{{ link }}">{{ title }}</a></li>
-        {% endfor %}
       
-    </details>
 </div>
 	
 {% endblock content %}
