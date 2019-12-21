@@ -1,2 +1,3 @@
 title: YOUmedia Chicago
 tags: public library, teen space, afterschool program, recording studio, multiple locations, the loop, humboldt park, pilsen, chatham
+summary: YOUmedia Chicago is an innovative, 21st century teen digital learning space at 19 Chicago Public Library locations. With an emphasis on digital media and the maker movement, teens engage in projects across a variety of core content areas including graphic design, photography, video, music, 2D/3D design, STEM and hands-on making. YOUmedia connects young adults, books, media, mentors and institutions throughout Chicago in dynamic spaces designed to inspire collaboration and creativity.
