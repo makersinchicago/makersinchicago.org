@@ -1,5 +1,4 @@
-title: Ab
-out
+title: About
 comment0: get someone else to write this
 comment1: special thanks 
 comment2: contact
