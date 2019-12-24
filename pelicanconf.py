@@ -29,8 +29,10 @@ DEFAULT_DATE = (2019, 6, 17, 14, 1, 1)
 LINKS = (
          ('Directory', '/'),
          ('Map', '/pages/map'),
-         ('About', '/pages/about'),
-         ('Blog', '/category/blog'),
+         ('Twitter', 'https://twitter.com/makersinchicago'),
+         ('Slack', 'http://bit.ly/chicagomakers-slack'),
+        #  ('About', '/pages/about'),
+        #  ('Blog', '/category/blog'),
          )
 
 SOCIAL = (('GitHub', 'http://github.com/standage'),
