@@ -1,2 +1,2 @@
 Title: Make Chicago
-tags: paid workshops
+tags: paid workshops, wood working, 

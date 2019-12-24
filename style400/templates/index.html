@@ -2,16 +2,17 @@
 {% block content %}
 <h1>Directory</h1>
 {% for cat, articles in categories %}
-        <h2><a id='cats' href="{{ SITEURL }}/{{ cat.url }}">{{ cat.name }}</a></h2>
+        
         
     
     {% if not cat == 'Blog' %}
+    <h2><a id='cats' href="{{ SITEURL }}/{{ cat.url }}">{{ cat.name }}</a></h2>
     <div id="post-list">
             {% for a in articles %}
                    <div class="sheet">
                        <article>
                     <a class="entry">
-                                <h2 class="entry-title"><a href="{{ SITEURL }}/{{ a.url }}" rel="bookmark" title="Permalink to {{ a.title|striptags }}">{{ a.title }}</a></h2>
+                                <h2 class="entry-title"><a href="{{ a.site }}" target="_blank" rel="bookmark" title="Permalink to {{ a.title|striptags }}">{{ a.title }}</a></h2>
                             {% if a.address %}
                             <div class="address">{{ a.address }}</div>
                             {% endif %}
