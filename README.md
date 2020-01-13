@@ -3,11 +3,7 @@ Makers in Chicago will aim to serve as an in depth directory of organizations fo
 
 ### Managing the Data
 
-Currently, the data lives throughout markdown files in the directory folder.  
-
-The categories are managed by folders. Creating a markdown file in a folder will list a new organization categorized as the named of that folder. Creating a new folder would create a new category.
-
-The markdown files contain metadeta for the organizations and should follow this pattern:
+Currently, the data lives throughout markdown files in the directory folder. The categories are managed by folders. Creating a markdown file in a folder will list a new organization categorized as the named of that folder. Creating a new folder would create a new category. The markdown files contain metadeta for the organizations and should follow this pattern:
 
 ```
 title:  
