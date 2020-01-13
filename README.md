@@ -8,7 +8,7 @@ The categories are managed by folders. Creating a markdown file in a folder will
 
 The markdown files contain metadeta for the organizations and should follow this pattern:
 
-'''
+```
 title:  
 address:  
 tags:  
