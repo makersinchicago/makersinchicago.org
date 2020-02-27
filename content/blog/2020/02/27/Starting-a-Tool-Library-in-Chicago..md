@@ -129,8 +129,7 @@ As the event wraps us, a crowd member suggests you check out the Hand Tool Rescu
 
 https://www.youtube.com/user/erzzi6/videos
 
-And finaly, a reminder their Repair Fair 2.0 is coming up next month, March 21st 1-4pm at the Bridgeport Library.
+And finaly, a reminder their [Repair Fair 2.0](https://chipublib.bibliocommons.com/events/5e46da4adf5923450046bf02) is coming up next month, March 21st 1-4pm at the Bridgeport Library.
 
-https://chipublib.bibliocommons.com/events/5e46da4adf5923450046bf02
 
 Visit https://chicagotoollibrary.org/ for more information and follow them on IG, Twitter, and Facebook.
