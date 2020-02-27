@@ -41,19 +41,10 @@ a {
 }
 
 p > img {
-	width: 80%;
+	width: 100%;
 	display: block;
 	border-radius: 2rem;
 	margin: 2rem auto 2rem auto;
-  }
-
-p > a > img {
-	max-width: 400px;
-	width: 100%;
-	display: inline-flex;
-	margin: 0 auto;
-	border-radius: 1rem;
-	margin: .42rem auto .42rem auto;
 }
 
 .address {
@@ -178,3 +169,9 @@ ul.nav li {
 	line-height: 1.5rem;
 	text-transform: uppercase;
 }
+
+@media (min-width: 992px) {
+	p > img {
+		width: 80%;
+	  }
+	}
