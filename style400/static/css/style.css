@@ -40,6 +40,22 @@ a {
 	color: #2f847c;
 }
 
+p > img {
+	width: 80%;
+	display: block;
+	border-radius: 2rem;
+	margin: 2rem auto 2rem auto;
+  }
+
+p > a > img {
+	max-width: 400px;
+	width: 100%;
+	display: inline-flex;
+	margin: 0 auto;
+	border-radius: 1rem;
+	margin: .42rem auto .42rem auto;
+}
+
 .address {
 	font-size: .9rem;
 	margin-top: -.5rem;
