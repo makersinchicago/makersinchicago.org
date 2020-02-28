@@ -40,6 +40,18 @@ a {
 	color: #2f847c;
 }
 
+p > a{
+	text-decoration: underline;
+}
+
+li, ul, ol > p {
+	font-size: 1rem;
+}
+
+li > p {
+	font-weight: 700;
+}
+
 dt {
 	font-size: 1.25rem;
 	font-weight: 700;
@@ -196,10 +208,25 @@ ul.nav li {
 	text-align:center;
 	font-family: 'Roboto';
 	font-weight: 400;
-	font-size: 1.3em;
+	font-size: .9em;
 	line-height: 1.5rem;
 	text-transform: uppercase;
 }
+
+
+blockquote {
+	padding: 0px 1rem 0px 1rem;
+	border-left: 3px solid #b2b2b2;
+	border-top: 3px solid #b2b2b2;
+	border-top-left-radius: 20px;
+	display:inline-block;
+}
+
+blockquote > p {
+	color: #2f6184;
+	font-size: 1.2rem;
+}
+  
 
 @media (min-width: 992px) {
 	p > img {
