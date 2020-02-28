@@ -22,9 +22,12 @@
 {% endblock %}
 
 {% block content %}
-<div class="sheet">
+<div class="article">
     <h1 class="entry-title">
       {{ article.title }}</h1>
+    <summary class="summary">
+      {{ article.summary }}
+    </summary>
   <div class="post-info">
   	{% if article.category == 'Blog' %}
     <time class="published" datetime="{{ article.date.isoformat() }}">

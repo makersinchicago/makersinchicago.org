@@ -2,20 +2,46 @@ title: Starting a Tool Library in Chicago
 date: 02-27-2020
 author: Jorge Garcia
 category: Blog
-sub: Promoting access over ownership and a circular economy
+summary: Promoting access over ownership and a circular economy
 
 ![Jim and Tessa Presenting at CPL Video Theatre Room at HWLC](\images\articles\ctlatcpl\presentation.jpg)
 
 
-Wednesday, the Chicago Public Library hosted the Chicago Tool Library at the Harold Washington Library Center. The talk was presented by Co-Founders Tessa Videk and Jim Benton. Launched in the summer of 2019, The Chicago Tool Library is Chicago’s first community tool lending library. Their mission is to provide equitable access to tools, equipment, and information to alow _all_ Chicagoans to learn, share, and create. Tonight, they shared their story and strides to promote the idea of access over ownership and a circular economy.
+Launched in the summer of 2019, The Chicago Tool Library is Chicago’s first community tool lending library. Their mission is to provide equitable access to tools, equipment, and information to alow _all_ Chicagoans to learn, share, and create. Tonight, they shared their story and strides to promote the idea of access over ownership and a circular economy.
+
+Wednesday, the Chicago Public Library hosted the Chicago Tool Library at the Harold Washington Library Center. The talk was presented by Co-Founders Tessa Videk and Jim Benton.
 
 ## Core Values and Goals
 
- At their core, the organization is guided by their values in promoting equity, sustainability, community, and individual growth.
+ At their core, the organization is guided by their values in promoting equity, sustainability, community, and individual growth. This is how they've define that:
+
+EQUITY
+: When tool access is limited by your ability to purchase, there is inequity around who is able to change and repair neighborhoods and who is allowed to create. Tool libraries allow everyone to access tools regardless of income.
+
+SUSTAINABILITY
+: Most of us do not use our tools often enough to necessitate purchasing new. By sharing tools we reduce the manufacturing footprint of tools and divert unwanted tools from landfills and, instead, put them into the hands of thousands of community members.
+
+COMMUNITY
+: To borrow you need to be a part of a community. Many in our city are not members of a community with access to valuable assets or resources. We are creating that community for all of our neighbors. 
+
+GROWTH
+: With resources we are able to improve our lives, our homes, and our city.  By creating equitable access to tools we hope to create new opportunities for Chicagoans to grow.
 
 ![CTL's values](\images\articles\ctlatcpl\ctlvalues.jpg)
 
 To make the concept accessible to all and to help Chicagoans start their own tool libraries across the city, they have laid out set of goals for themselves as reminders througought their work.
+
+COST
+: Purchasing and maintaining tools is expensive, but borrowing them is not. Our memberships are priced on a sliding scale to ensure nobody is unable to access our resources due to their financial status.  
+
+SPACE
+: Having the space to store tool collections is a luxury most city-dwellers cannot afford. Becoming a member of a tool library means you have access to hundreds of tools without needing to store them in your own home. 
+
+KNOWLEDGE
+: A tool library is more than its inventory, it is a space for learning. We welcome anyone to visit the library to share your questions, problems, and solutions with our growing community. We will also grow capacity for training, programming, and workshops. 
+
+CONFIDENCE
+: Borrowing tools allows you to experiment! When you don’t have to purchase an expensive tool you can build skills and confidence at your own pace and your own budget.
 
 ![CTL's goals](\images\articles\ctlatcpl\ctlgoals.jpg)
 
