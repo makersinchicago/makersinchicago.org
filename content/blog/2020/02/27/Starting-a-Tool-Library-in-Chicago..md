@@ -71,7 +71,7 @@ Tool Libraries are often independent of public libraries, but they both serve as
 
 For the next few slides, we got a view of Chicago orgs and other Tool Libraries that helped out during their research phase, survey demographics, and their earliest volunteers. I see many @makersinchicago friends in the first image.
 
-![](/images/articles/ctlatcpl/ctlfriends.jpg#thumbnail)
+![](/images/articles/ctlatcpl/ctlfriends.jpg)
 
 They had a BIG and busy 2019 with a crowdfunding campaign, tool drives, fundraising, and a grand opening! 3/4ths of all current tools were acquired during drives and now have a current inventory size is about 1k. Initially just the two of them, now they have about twenty volunteers.
 
