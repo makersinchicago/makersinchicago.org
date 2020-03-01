@@ -36,15 +36,16 @@
               {% for p in pages %}
                 <li><a id='cats' href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></h4></li>
               {% endfor %}
-            {% endif %}   
+            {% endif %}    
           </ul>
         </div>
       </header>
     <div class="content">
       <div class="info">
         {% block content %}
-        {% endblock %}
+        
         <sub> <a href="http://jorgegarcia.io">Designed by JorgeIO</a> </sub>
+        {% endblock %}
         </div>
       
     </div>
