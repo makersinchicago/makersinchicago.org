@@ -1,7 +1,7 @@
 body {
 	background-color: #f3f3f3;
 	color: #4D4D4D;
-	font-family: 'Roboto';
+	font-family: 'Roboto',sans-serif;
 	font-size: 62.5%;
 }
 
@@ -16,7 +16,7 @@ p {
 }
 
 h1, h2 {
-	font-family: 'Big Shoulders Text';
+	font-family: 'Big Shoulders Text', sans-serif;
 }
 
 h1 {
@@ -28,7 +28,7 @@ h2 {
 }
 
 h6 {
-	font-family: 'Roboto';
+	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
 	font-size: 1.3rem;
 	line-height: 1.7rem;
@@ -99,7 +99,7 @@ a:hover {
 li.current{
 	font-weight: 700;
 	text-decoration: underline;
-	
+
 }
 
 .main {
@@ -146,7 +146,7 @@ li.current{
 	padding-right:8px;
 	margin-bottom:5px;
 	text-align:center;
-	font-family: 'Roboto';
+	font-family: 'Roboto',sans-serif;
 	font-weight: 400;
 	font-size: 13px;
 	line-height: 23px;
@@ -206,7 +206,7 @@ ul.nav li {
 	padding-left:8px;
 	padding-right:8px;
 	text-align:center;
-	font-family: 'Roboto';
+	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
 	font-size: .9em;
 	line-height: 1.5rem;
@@ -226,12 +226,15 @@ blockquote > p {
 	color: #2f6184;
 	font-size: 1.2rem;
 }
-  
 
-@media (min-width: 992px) {
+
+@media (min-width: 800px) {
 	p > img {
 		width: 80%;
 	  }
+	p {
+		font-size: 2em;
+	}
 
 	.article {
 		height: 100%;
