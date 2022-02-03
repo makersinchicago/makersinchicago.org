@@ -1,4 +1,5 @@
 title: The Greenhouse MakerLab
+status: hidden
 address: 300 E. Northwest Highway, Des Plaines, IL 60016
 tags: ymca, family friendly, des plaines
 site:https://www.ymcachicago.org/lattof/programs/makerlab
