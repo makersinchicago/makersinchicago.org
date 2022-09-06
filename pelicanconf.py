@@ -31,7 +31,7 @@ LINKS = (
          ('Map', '/pages/map'),
          ('Twitter', 'https://twitter.com/makersinchicago'),
         #  ('Slack', 'http://bit.ly/chicagomakers-slack'),
-         ('Contact','mailto:makersinchicago@jorgegarcia.io?cc=makerspace@chipublib.org&subject=MakersinChicago.org:%20')
+         ('Contact','mailto:makersinchicago@jorgegarcia.io?subject=MakersinChicago.org:%20')
         #  ('About', '/pages/about'),
         #  ,
          )
