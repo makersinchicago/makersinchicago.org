@@ -1,4 +1,4 @@
-title: ChiMakerFest
+title: Chicago Maker Fest
 
 ## More information coming soon.
 
