@@ -1,4 +1,4 @@
-title: 2023 Chicago Maker's Exposition
+title: ChiMakerFest
 
 ## More information coming soon.
 
