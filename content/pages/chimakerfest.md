@@ -1,4 +1,4 @@
-title: Chicago Maker Fest
+title: Chicago Maker's Fest
 
 ## More information coming soon.
 
