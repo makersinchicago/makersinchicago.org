@@ -1,3 +1,3 @@
-title: Chicago Maker's Fest
+title: Chicago Maker Fest
 
 Stay tuned for more information...
