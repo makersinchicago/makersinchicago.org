@@ -27,13 +27,13 @@ DEFAULT_DATE = (2019, 6, 17, 14, 1, 1)
 
 # Blogroll
 LINKS = (
-         ('ChiMakerFest', '/pages/Chicago-Maker-Fest'),
          ('Blog', '/category/blog'),
          ('Map', '/pages/map'),
          ('Twitter', 'https://twitter.com/makersinchicago'),
          ('Slack', 'http://bit.ly/chicagomakers-slack'),
          ('Contact','mailto:makersinchicago@jorgegarcia.io?subject=MakersinChicago.org:%20')
         #  ('About', '/pages/about'),
+        #  ('ChiMakerFest', '/pages/Chicago-Maker-Fest'),
         #  ,
          )
 
