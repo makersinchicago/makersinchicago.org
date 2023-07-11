@@ -37,13 +37,13 @@ site:
 summary: 
 ```
 
-#### Root Folders explained:
+### Root Folders explained:
 
 **.github** – for managing the Issues Page submission template  
 **content** – this is where everything for the site lives.  
 **style** – the site’s theme lives here.  
 
-#### Content Folder and the Directory
+### Content Folder and the Directory
 
 If you want to begin editing, it’s important to explore the Content folder—more specifically, the directory subfolder. Inside you’ll see Folders that create the site’s categories and inside you’ll find markdown (.md) files. If you want to create a new directory item, you’ll want to make a markdown file in an appropriate folder. Here is an example of Pumping Station 1’s markdown. 
 
@@ -86,18 +86,19 @@ summary: CPL bring the community together for a MakerShare!
 
 ## Site Management  
 
-#### Edit Approvals  
+### Edit Approvals  
 
 Sasha Neri and I (J’orge) are admins to the GitHub Repository and would be the ones to push your edits to the site.  
 
-#### If you’re curious about another Makers in Chicago project, socialraspi is Raspberry Pi photo booth that would push the images captured straight to Twitter. With the changes to the social media platform, the project is not expected to work into the future.  
+If you’re curious about another Makers in Chicago project, socialraspi is Raspberry Pi photo booth that would push the images captured straight to Twitter. With the changes to the social media platform, the project is not expected to work into the future.  
 
-#### Discussion  
-If you have questions, comments, or simply wanted to start a conversation, GitHub Issues or Slack are where you want to drop that comment. While email works too, a public-facing discussion is always appreciated.
+### Discussion  
+
+If you have questions, comments, or simply wanted to start a conversation, GitHub Issues or Slack are where you want to drop that comment. While email works too, a public-facing discussion is always appreciated.  
 
 ## Gone Birding  
 
-#### Where am I?  
+### Where am I?  
 
 After mid-2019, and missing my time at the Maker Lab, I began getting interested in birds. Along came the pandemic and I went all in. Now, I am a professional bird photographer serving as a Coordinator for the Birds in My Neighborhood program at Openlands, a Chicagoland environmental organization. I’ve been on Curious City, and WTTW talking about birds, with another WTTW feature coming out later this year.
 
