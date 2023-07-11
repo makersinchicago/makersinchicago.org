@@ -2,7 +2,7 @@ title: 10 Years Later
 date: 07-07-2023
 author: Jorge Garcia
 category: Blog
-summary: A blog version of the Makers in Chicago presentation board for Sasha and the Maker Showcasers.
+summary: A digital version of the Makers in Chicago presentation board for Sasha and the Maker Showcasers.
 
 Hi, reader!  
 
@@ -39,9 +39,9 @@ summary:
 
 #### Root Folders explained:
 
-**.github** – for managing the Issues Page submission template
-**content** – this is where everything for the site lives.
-**style** – the site’s theme lives here.
+**.github** – for managing the Issues Page submission template  
+**content** – this is where everything for the site lives.  
+**style** – the site’s theme lives here.  
 
 #### Content Folder and the Directory
 
@@ -84,18 +84,18 @@ category: Blog
 summary: CPL bring the community together for a MakerShare!
 ```
 
-## Site Management
+## Site Management  
 
-#### Edit Approvals
+#### Edit Approvals  
 
-Sasha Neri and I (J’orge) are admins to the GitHub Repository and would be the ones to push your edits to the site.
+Sasha Neri and I (J’orge) are admins to the GitHub Repository and would be the ones to push your edits to the site.  
 
-#### If you’re curious about another Makers in Chicago project, socialraspi is Raspberry Pi photo booth that would push the images captured straight to Twitter. With the changes to the social media platform, the project is not expected to work into the future.
+#### If you’re curious about another Makers in Chicago project, socialraspi is Raspberry Pi photo booth that would push the images captured straight to Twitter. With the changes to the social media platform, the project is not expected to work into the future.  
 
-#### Discussion
+#### Discussion  
 If you have questions, comments, or simply wanted to start a conversation, GitHub Issues or Slack are where you want to drop that comment. While email works too, a public-facing discussion is always appreciated.
 
-## Gone Birding
+## Gone Birding  
 
 #### Where am I?  
 
