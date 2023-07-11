@@ -1,10 +1,16 @@
+title: 10 Years Later
+date: 07-07-2023
+author: Jorge Garcia
+category: Blog
+summary: A blog version of the Makers in Chicago presentation board for Sasha and the Maker Showcasers.
+
 Hi, reader!  
 
 My name is J’orge Garcia and from 2013 to 2019 I worked for the Chicago Public Library in various positions including as a Senior Maker Specialist in the CPL Maker Lab. I joined the maker space team about a month after its opening and loved every minute of my time there. You may already know but the project was only going to be a 6-month experiment and here it is 10 years later!  
 
-In February 2014, I attended the second Maker Summit in the lower level of the library, and I was inspired to create Makers in Chicago. I talked all about it for months until Mark Anderson and Sasha Neri gave me the go-ahead and support to start building it. I still remember the first time I mentioned the idea out loud nearly spilling over my drink on Mariella Colon while the team gathered after work. Brandy Agerbeck was nice enough to share a digital version of our conversation map with me, as well as related conversations to help me make connections and realize what the project could be. I presented on the project at the following Maker Summit (https://sshchicago.org/2015-chicago-maker-summit/).  
+In February 2014, I attended the second Maker Summit in the lower level of the library, and I was inspired to create Makers in Chicago. I talked all about it for months until Mark Anderson and Sasha Neri gave me the go-ahead and support to start building it. I still remember the first time I mentioned the idea out loud nearly spilling over my drink on Mariella Colon while the team gathered after work. Brandy Agerbeck was nice enough to share a digital version of our conversation map with me, as well as related conversations to help me make connections and realize what the project could be. I presented the project at the following Maker Summit (https://sshchicago.org/2015-chicago-maker-summit/).  
 
-It's gone through different iterations, including once collecting the community’s calendars all into one page. The Smart Chicago Collaborative supported the original WordPress site until 2016 when the organization sunset. The site then shifted to an open-source directory on GitHub. Since then, I’ve had folks ping me via email and in-person with updates for the site. Now, I’d like to once again ask the community to help me keep the site as up to date as possible. I invite you to join as a contributor!  
+It's gone through different iterations, including once collecting the community’s calendars all into one page. The Smart Chicago Collaborative supported the original WordPress site until 2016 when the organization sunset. The site then shifted to an open-source directory on GitHub. Since then, I’ve had folks ping me via email and in person with updates for the site. Now, I’d like to once again ask the community to help me keep the site as up-to-date as possible. I invite you to join as a contributor!  
 
 Dig into the conversation maps of our 2014 Summit and related conversations and I hope you might find inspiration in them as I did.  
 
@@ -14,12 +20,12 @@ J’orge
 CPL Maker Lab Staff - 2018 
 
 [Conversation Maps from the 2014 Maker Summit at the Harold Washington Library
-and others convenings, all which inspired the creation of Makers in Chicago.]
+and other convenings, all of which inspired the creation of Makers in Chicago.]
 
 
 ## Submitting or Editing a Maker Org  
 
-Makers in Chicago is an open-source project and is publicly available for contributions via GitHub. No software is needed, and anyone can make editing suggestions via the GitHub website with an account. Fork the project or become a project member. The site is built using Pelican Static Site Generator and only a little Markdown is needed, no code. Pelican is based on Python is you want to get fancy with making new tools for the site.  
+Makers in Chicago is an open-source project and is publicly available for contributions via GitHub. No software is needed, and anyone can make editing suggestions via the GitHub website with an account. Fork the project or become a project member. The site is built using Pelican Static Site Generator and only a little Markdown is needed, no code. Pelican is based on Python if you want to get fancy with making new tools for the site.  
 
 The data for the directory lives through markdown files in a folder structure. Folders manage the categories. Creating a markdown file in a folder will list a new organization categorized as that folder's name. Creating a new folder would create a new category. The markdown files contain metadata for the organizations and should follow this format:  
 
@@ -56,7 +62,7 @@ title: Edgewater Workbench
 address: 1130 W Thorndale Ave, Chicago, IL 60660
 site: http://www.edgewaterworkbench.com/
 tags: After School Matters, edgewater
-summary: A makerspace with access to laser cutting and 3D printing near the Thorndale Red Line offering after school programs.
+summary: A makerspace with access to laser cutting and 3D printing near the Thorndale Red Line offering after-school programs.
 status: hidden
 ```
 
@@ -87,7 +93,7 @@ Sasha Neri and I (J’orge) are admins to the GitHub Repository and would be the
 #### If you’re curious about another Makers in Chicago project, socialraspi is Raspberry Pi photo booth that would push the images captured straight to Twitter. With the changes to the social media platform, the project is not expected to work into the future.
 
 #### Discussion
-If you have question, comments are simply wanted to start a conversation, GitHub Issues or Slack are where you want to drop that comment. While email works too, a public facing discussion is always appreciated.
+If you have questions, comments, or simply wanted to start a conversation, GitHub Issues or Slack are where you want to drop that comment. While email works too, a public-facing discussion is always appreciated.
 
 ## Gone Birding
 
