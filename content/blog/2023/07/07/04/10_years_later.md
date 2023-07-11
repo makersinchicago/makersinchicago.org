@@ -23,7 +23,7 @@ CPL Maker Lab Staff - 2018
 and other convenings, all of which inspired the creation of Makers in Chicago.]
 
 
-## Submitting or Editing a Maker Org  
+# Submitting or Editing a Maker Org  
 
 Makers in Chicago is an open-source project and is publicly available for contributions via GitHub. No software is needed, and anyone can make editing suggestions via the GitHub website with an account. Fork the project or become a project member. The site is built using Pelican Static Site Generator and only a little Markdown is needed, no code. Pelican is based on Python if you want to get fancy with making new tools for the site.  
 
@@ -70,7 +70,7 @@ For a look at a fully descriptive makerspace, check out South Side Hackerspace a
 
 https://makersinchicago.org/south-side-hackerspace-chicago.html
 
-## Blogging Tools  
+# Blogging Tools  
 
 In 2019, we thought to do more writing such as by blogging about the maker happenings around town to reinvigorate the site. I started with a piece on the Chicago Tool Library following a presentation in the Harold Washington Library Video Theater. COVID-19 Lockdowns began shortly after, all happenings came to a halt, and I pivoted to birding. I have since become a professional bird photographer and could not continue following the maker scene as close. Blogging tools are built into the site and as a community site, anyone is allowed to be a contributor by submitting a post as a pull request.
 
@@ -84,7 +84,7 @@ category: Blog
 summary: CPL bring the community together for a MakerShare!
 ```
 
-## Site Management  
+# Site Management  
 
 ## Edit Approvals  
 
@@ -96,7 +96,7 @@ If you’re curious about another Makers in Chicago project, socialraspi is Rasp
 
 If you have questions, comments, or simply wanted to start a conversation, GitHub Issues or Slack are where you want to drop that comment. While email works too, a public-facing discussion is always appreciated.  
 
-## Gone Birding  
+# Gone Birding  
 
 ## Where am I?  
 
